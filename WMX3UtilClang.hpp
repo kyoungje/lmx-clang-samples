@@ -19,6 +19,7 @@
 
 #include "nlohmann/json.hpp"
 #include "xtl/xbase64.hpp"
+#include "xeus/xguid.hpp"
 #include "xcpp/xdisplay.hpp"
 
 #include "CoreMotionApi.h"
